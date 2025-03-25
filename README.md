@@ -92,7 +92,7 @@ pytest tests/
 
 ### ✅ Adding Financial Data  
 ![Post Data](screenshots/post_data.png) 
-<img src="screenshots/sc02.png" width="600"> 
+<img src="screenshots/sc03.png" width="600"> 
 
 ### ✅ Fetching Data  
 ![Get Data](screenshots/get_data.png)  
